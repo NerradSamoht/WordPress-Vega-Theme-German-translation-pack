@@ -1,7 +1,7 @@
 # WordPress Vega Theme - German translation pack
 
-A translation file for the front end Vega WordPress theme.
+A translation pack for the Vega WordPress theme. This is for the front end only and not the admin.
 
 Use poedit to open and edit the de_DE.po file.
 
-To use the file with the Vega theme place both the po file and the mo file in wp-content/themes/vega/languages.   
+To use the pack place both the po and mo files in wp-content/themes/vega/languages.   
